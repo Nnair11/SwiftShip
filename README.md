@@ -1,5 +1,4 @@
-**Login, Register and Interactive GUI with MySQL Database Connection
-**
+Login, Register and Interactive GUI with MySQL Database Connection
 A simple Java application that provides a simple user authentication system using Swing GUI components. It allows users to log in and register for an account, Designed for efficient courier package management and tracking. It enables users to store package details, including sender and receiver information, and monitor delivery status.
  
 Table of Contents
