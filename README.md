@@ -1,35 +1,43 @@
-Login, Register and Interactive GUI with MySQL Database Connection
-
-A simple application designed for efficient courier package management and tracking. It enables users to store package details, including sender and receiver information, and monitor delivery status in real time.
+**Login, Register and Interactive GUI with MySQL Database Connection
+**
+A simple Java application that provides a simple user authentication system using Swing GUI components. It allows users to log in and register for an account, Designed for efficient courier package management and tracking. It enables users to store package details, including sender and receiver information, and monitor delivery status.
  
 Table of Contents
-Classes
-AppLauncher
-LoginFormGUI
-RegisterFormGUI
-Form
-MyJDBC
-CommonConstants
-Classes
+	Classes
+	AppLauncher
+	LoginFormGUI
+	RegisterFormGUI
+	Form
+	MyJDBC
+	CommonConstants
 
 
-FEATURES:
+_FEATURES:_
 	
-User Management
-Admin login and Authentication their Dashboard
-Customer sign up and login
-Delivery Staff Login
+**User Management**
 
-Package Management
-Store package details (tracking number, sender, receiver, weight, delivery type)
-Assign packages to delivery staff
-Package pricing based on weight and distance
+-Admin login and Authentication their Dashboard
+
+-Customer sign up and login
+
+-Delivery Staff Login
+
+**Package Management**
+
+-Store package details (tracking number, sender, receiver, weight, delivery type)
+
+-Assign packages to delivery staff
+
+-Package pricing based on weight and distance
 
 
-Report & Analytics
-Track Package status (Pending, Picked Up, In Transit, Out for Delivery, Delivered)
-Details of package (Customer Name, Address, Send to)
-Customer Delivery History
+**Report & Analytics**
+
+-Track Package status (Pending, Picked Up, In Transit, Out for Delivery, Delivered)
+
+-Details of package (Customer Name, Address, Send to)
+
+-Customer Delivery History
 
 Usage
 To use the AppLauncher application:
